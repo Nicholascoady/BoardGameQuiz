@@ -1,0 +1,54 @@
+html {
+  background: url("img/boardgamebackground3.png") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(144, 136, 136, 0.7);
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#movie {
+  width: 400px;
+  height: 300px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: crimson;
+  text-decoration: underline;
+}
+
+#btn {
+  color: white;
+  background-color: grey;
+}
+
+#Q5 {
+  border-color: black;
+}
+
+#Q4 {
+  border-color: black;
+}
+
+#Q3 {
+  border-color: black;
+}
+
+#Q2 {
+  border-color: black;
+}
+
+#Q1 {
+  border-color: black;
+}
